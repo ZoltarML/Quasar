@@ -1,18 +1,3 @@
-/* 
-    Quasar - Manyland multi-purpose GUI. Don't like reading? Have some icons.
-
-    * Finally another public script release after 2 years! Put a little work into this one so it should be interesting.
-    * Alright let me give you the run down, inside the menu you will find functionality ranging from name randomization to portals all packed into a slick GUI. 
-    * Manyland's been seeing a lot of changes recently, so if something here breaks don't be suprised. If something were to break I might get around to fixing it.
-    * Probably won't see another public release from me for awhile[or ever].
-    * Made by Zoltar
-    
-    - Cool People to check out
-        * Parse: https://pastebin.com/u/parseML
-        * R4TB0Y: https://pastebin.com/u/r4tb0y
-
-
-*/
 
 // Sidebar
 const body = document.getElementsByTagName("body")[0];
@@ -20,7 +5,6 @@ const sidebar = document.createElement('div');
 const sidebarWrapper = document.createElement('div');
 globalPlayer = ig.game.player;
 
-// Dynamic Options
 options = {
     tweaks: {
         name: 'tweaks',
