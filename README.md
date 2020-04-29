@@ -7,19 +7,20 @@ One Paragraph of project description goes here
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-### Installing
+### Deployment
 
 Navigate to [Manyland](http://manyland.com).
-Open your browsers [Developer Console] and run the following command.
+Open your browsers **Developer Console** and run the following command.
 
-```
+```js
+
 $.getScript('whateverthiscdnisgoingtobe')
 
 ```
 
 Congrats! You have now succesfully run Quasar!
 
-End with an example of getting some data out of the system or using it for a little demo
+![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf);
 
 ## Running the tests
 
@@ -40,10 +41,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
