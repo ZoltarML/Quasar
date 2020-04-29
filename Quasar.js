@@ -615,7 +615,7 @@ function openOthers() {
 }
 
 function openItems() {
-    // What makes the playerImage element look nice
+    // What makes the itemImage element look nice
     let itemImageHolder = document.createElement('section');
     itemImageHolder.classList.add('player-pictureframe');
     itemImageHolder.width = 100;
@@ -634,7 +634,7 @@ function openItems() {
 
 
 
-    // Allows user to select command to execute
+    // Allows user to select item to equip
     let itemSelector = document.createElement('select');
     itemSelector.classList.add('player-picker');
 
@@ -720,7 +720,7 @@ function openItems() {
 }
 
 function openTweaks() {
-    // What makes the playerImage element look nice
+    // What makes the tweakImage element look nice
     let tweakImageHolder = document.createElement('section');
     tweakImageHolder.classList.add('player-pictureframe');
     tweakImageHolder.width = 100;
