@@ -227,15 +227,18 @@ const commands = {
     channel: (instance, arguments) => {
         let targetedPlayer = null;
         let broken = false;
+        if(typeof arguments[0] === 'undefined') {
+            instance.output('Please specify a player...');
+            return;
+        }
 
-        for (i in ig.game.players) {
-            target = ig.game.players[i];
-            removedSpacesName = target.screenName.replace(/ /g, '');
+        ig.game.players.forEach(target => {
+            target.screenName.includes(' ') ? removedSpacesName = target.screenName.replace(/ /g, '') : removedSpacesName = target.screenName;
             if (removedSpacesName.includes(arguments[0])) {
                 targetedPlayer = target;
-                break;
             }
-        }
+        })
+        
         
         
         if (targetedPlayer == null) {
@@ -260,6 +263,10 @@ const commands = {
     },
     toggle: (instance, arguments) => {
         let command = null;
+        if(typeof arguments[0] === 'undefined') {
+            instance.output('Please specify a tweak...');
+            return;
+        }
         arguments[0].includes('-') ? command = arguments[0].replace(/-/g, ' ') : command = arguments[0];
         for (i in tweaks) {
             if (command.toLowerCase() === tweaks[i].name.toLowerCase()) {
