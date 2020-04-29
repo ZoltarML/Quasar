@@ -17,7 +17,7 @@ $.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.1/Quasar.js')
 
 Congrats! You have now succesfully run Quasar!
 
-![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf.gif);
+![](https://gyazo.com/40522f3a4d377a1816739e0764f697f9.gif);
 
 ## Obscure Submenu Features
 
