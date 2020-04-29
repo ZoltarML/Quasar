@@ -11,7 +11,7 @@ Open your browsers **Developer Console** and run the following command.
 
 ```js
 
-$.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.1/Quasar.js')
+$.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.2/Quasar.js')
 
 ```
 
@@ -34,7 +34,7 @@ Congrats! You have now succesfully run Quasar!
  
 ### Terminal Submenu
  * Spaces in targted player names do ***not*** need to be entered into the terminal.
- * When referencing a script with spaces, use the '**-**' character instead of a space
+ * When referencing a script with spaces, use the '**-**' character instead of a space.
  ```
  Targted players name: John doe               .
  Terminal syntax: channel johndoe. steal
