@@ -9,19 +9,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Navigate to [Manyland](http://manyland.com).
+Open your browsers [Developer Console] and run the following command.
 
 ```
-until finished
+$.getScript('whateverthiscdnisgoingtobe')
+
 ```
+
+Congrats! You have now succesfully run Quasar!
 
 End with an example of getting some data out of the system or using it for a little demo
 
