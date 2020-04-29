@@ -24,7 +24,7 @@ Congrats! You have now succesfully run Quasar!
 ## Obscure Submenu Features
 
 ### Option Colors
- * The colors that are visibile in the drop down menu indicate the risk level of being banned/reported due to a certain action.
+ * The colors that are visible in the drop down menus indicate the risk level of being banned/reported due to that certain action.
  * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `High risk.`
  * ![#f5ef42](https://placehold.it/15/f5ef42/000000?text=+) `Medium risk.`
  * ![#47f238](https://placehold.it/15/47f238/000000?text=+) `Low risk.`
@@ -34,7 +34,17 @@ Congrats! You have now succesfully run Quasar!
  * When using the Spy command press any key to return the camera back to your player.
  * Player ***cannot*** be unblocked, to unblock the the page would have to be refreshed.
  
-
+### Terminal Submenu
+ * Spaces in targted player names do ***not*** need to be entered into the terminal.
+ ```
+ Targted players name: Johndoe               .
+ Terminal syntax: channel johndoe. steal
+ ```
+ * When referencing a script with spaces, use the **'-'** character instead of a space
+ ```
+ Script name: God Mode
+ Terminal Syntax: toggle god-mode
+ ```
 
 
 ### And coding style tests
