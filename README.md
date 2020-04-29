@@ -25,7 +25,7 @@ Congrats! You have now succesfully run Quasar!
 
 ### Option Colors
  * The colors that are visibile in the drop down menu indicate the risk level of being banned/reported due to a certain action
- * <span style="color:Red">red</span> - Highest risk 
+ * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 ### Other Player Submenu
  * When using the Spy command press any key to return the camera back to your player.
