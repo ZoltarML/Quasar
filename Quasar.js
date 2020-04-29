@@ -307,7 +307,7 @@ for (i in options) {
 
 // Getting CSS
 async function loadCSS() {
-    fetch('http://localhost:3000/css').then(resp => resp.text()).then(css => {
+    fetch('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@latest/Style.css').then(resp => resp.text()).then(css => {
         let style = document.createElement('style');
         style.innerHTML = css;
         $('head')[0].appendChild(style);
