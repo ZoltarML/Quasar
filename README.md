@@ -20,7 +20,7 @@ $.getScript('whateverthiscdnisgoingtobe')
 
 Congrats! You have now succesfully run Quasar!
 
-![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf);
+![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf.gif);
 
 ## Running the tests
 
