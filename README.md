@@ -21,13 +21,13 @@ Congrats! You have now succesfully run Quasar!
 
 ![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf.gif);
 
-### Obscure Submenu Features
+## Obscure Submenu Features
 
-# Option Colors
+### Option Colors
  * The colors that are visibile in the drop down menu indicate the risk level of being banned/reported due to a certain action
  * <span style="color:Red">red</span> - Highest risk 
 
-# Other Player Submenu
+### Other Player Submenu
  * When using the Spy command press any key to return the camera back to your player.
  * Player ***cannot*** be unblocked, to unblock the the page would have to be refreshed.
  
