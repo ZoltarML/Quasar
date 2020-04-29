@@ -899,7 +899,6 @@ function block(player) {
 function clickTeleport(enabled) {
     if (enabled) {
         window.addEventListener('click', clickTeleport);
-        ig.game.player.kill = function () { };
         if (ig.input.state("ctrl")) {
             var dx = ig.game.screen.x;
             var h = ig.game.screen.y;
