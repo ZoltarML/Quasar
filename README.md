@@ -45,13 +45,12 @@ Congrats! You have now succesfully run Quasar!
 
 ## Built With
 
-* [Manylib](http://pastebin.com/raw/XHuUPac8) - Used to easly use common functions present in Manyland scripting.
 * [Manyland Auto Deobfuscator](https://github.com/parseml/many-deobf) - Used to stay up to date with Manyland obfuscation.
 * [Vanilla Terminal](https://github.com/soyjavi/vanilla-terminal) - Used as a code base for the terminal.
 
 
 ## Acknowledgments
 
-* [Parse](https://pastebin.com/u/parseml) - *Created Auto Deobf and Manylib*
+* [Parse](https://pastebin.com/u/parseml) - *Created Manyland Auto Deobfuscator*
 
 
