@@ -34,7 +34,7 @@ Congrats! You have now succesfully run Quasar!
  
 ### Terminal Submenu
  * Spaces in targted player names do ***not*** need to be entered into the terminal.
- * When referencing a script with spaces, use the **'-'** character instead of a space
+ * When referencing a script with spaces, use the '**-**' character instead of a space
  ```
  Targted players name: John doe               .
  Terminal syntax: channel johndoe. steal
@@ -43,43 +43,15 @@ Congrats! You have now succesfully run Quasar!
  Terminal Syntax: toggle god-mode
  ```
 
-
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Manylib](http://pastebin.com/raw/XHuUPac8) - Used to easly use common functions present in Manyland scripting.
+* [Manyland Auto Deobfuscator](https://github.com/parseml/many-deobf) - Used to stay up to date with Manyland obfuscation.
+* [Vanilla Terminal](https://github.com/soyjavi/vanilla-terminal) - Used as a code base for the terminal.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Parse](https://pastebin.com/u/parseml) - *Created Auto Deobf and Manylib*
+
 
