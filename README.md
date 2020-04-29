@@ -1,6 +1,10 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Quasar
+  * Finally another public script release after 2 years! Put a little work into this one so it should be interesting.
+  * This menu is a multi-purpose Manyland GUI that is meant to enhance the casual scripting experience of the game.
+  * Alright let me give you the run down, inside the menu you will find functionality ranging from name randomization to player spying all packed into a slick GUI.
+  * Manyland's been seeing a lot of changes recently, so if something here breaks don't be suprised. If something were to break I might get around to fixing it.
+  * Probably won't see another public release from me for awhile[or ever].
+  * Made by *Zoltar*
 
 ## Getting Started
 
