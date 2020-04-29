@@ -6,11 +6,6 @@
   * Probably won't see another public release from me for awhile[or ever].
   * Made by *Zoltar*
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 ### Deployment
 
 Navigate to [Manyland](http://manyland.com).
@@ -26,17 +21,18 @@ Congrats! You have now succesfully run Quasar!
 
 ![](https://gyazo.com/d23b3d7b6990bd05f8066754697cf0cf.gif);
 
-## Running the tests
+### Obscure Submenu Features
 
-Explain how to run the automated tests for this system
+# Option Colors
+ * The colors that are visibile in the drop down menu indicate the risk level of being banned/reported due to a certain action
+ * <span style="color:Red">red</span> - Highest risk 
 
-### Break down into end to end tests
+# Other Player Submenu
+ * When using the Spy command press any key to return the camera back to your player.
+ * Player ***cannot*** be unblocked, to unblock the the page would have to be refreshed.
+ 
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
 ### And coding style tests
 
