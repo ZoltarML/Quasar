@@ -7,7 +7,7 @@
 ### Deployment
 
 Video Guide:
-[![](https://img.youtube.com/vi/h_iItWEvfg/0.jpg)](https://www.youtube.com/watch?v=0h_iItWEvfg)
+[![](https://cdn.discordapp.com/attachments/614637022614782000/735420155085062144/unknown.png)](https://www.youtube.com/watch?v=0h_iItWEvfg)
 
 Navigate to [Manyland](http://manyland.com).
 Open your browsers **Developer Console** and run the following command.
