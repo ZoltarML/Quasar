@@ -6,6 +6,9 @@
 
 ### Deployment
 
+Video Guide:
+![](https://www.youtube.com/watch?v=0h_iItWEvfg)
+
 Navigate to [Manyland](http://manyland.com).
 Open your browsers **Developer Console** and run the following command.
 
