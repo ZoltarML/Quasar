@@ -7,7 +7,7 @@
 ### Deployment
 
 Video Guide:
-![](https://www.youtube.com/watch?v=0h_iItWEvfg)
+[![] https://img.youtube.com/vi/h_iItWEvfg/0.jpg](https://www.youtube.com/watch?v=0h_iItWEvfg)
 
 Navigate to [Manyland](http://manyland.com).
 Open your browsers **Developer Console** and run the following command.
