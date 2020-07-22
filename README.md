@@ -4,10 +4,11 @@
   * Probably won't see another public release from me for awhile[or ever].
   * Made by *Zoltar*
 
-### Deployment
+## Video Guide
 
-Video Guide:
 [![](https://cdn.discordapp.com/attachments/614637022614782000/735420155085062144/unknown.png)](https://www.youtube.com/watch?v=0h_iItWEvfg)
+
+### Deployment
 
 Navigate to [Manyland](http://manyland.com).
 Open your browsers **Developer Console** and run the following command.
@@ -20,7 +21,7 @@ $.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.2/Quasar.js')
 
 Congrats! You have now succesfully run Quasar!
 
-![](https://gyazo.com/40522f3a4d377a1816739e0764f697f9.gif);
+![](https://gyazo.com/40522f3a4d377a1816739e0764f697f9.gif)
 
 ## Obscure Submenu Features
 
