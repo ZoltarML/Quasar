@@ -15,7 +15,7 @@ Open your browsers **Developer Console** and run the following command.
 
 ```js
 
-$.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.2/Quasar.js')
+$.getScript('https://cdn.jsdelivr.net/gh/ZoltarML/Quasar@0.3/Quasar.js')
 
 ```
 
