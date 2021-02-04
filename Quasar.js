@@ -366,6 +366,11 @@ altcam = function () {
 }
 
 function startQuasar() {
+    // Equip item fix
+    ig.game.equip = Deobfuscator.object(ig.game, "removeItemFromCollection", false);
+    ig.game.equip.item = Deobfuscator.function(ig.game.equip, "getItem_P", false);
+    ig.game.player.allowEquip = Deobfuscator.keyBetween(ig.game.init, "t=!0,ig.game.", "=!0);");
+    ig.game[ig.game.player.allowEquip] = true;
 
     // I don't wanna talk about it...
     topCV = Deobfuscator.keyBetween(ig.game.camera.update, `{this.`, `||`).split('||')[0];
